@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dc4d620-45b3-4452-8086-693e176c7f4c" name="Default Changelist" comment="" />
+    <list default="true" id="5dc4d620-45b3-4452-8086-693e176c7f4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/00_with Docs/01_Vue/filter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606084494217</updated>
-      <workItem from="1606084495578" duration="3004000" />
+      <workItem from="1606084495578" duration="5024000" />
+      <workItem from="1606090392840" duration="838000" />
     </task>
     <servers />
   </component>
@@ -71,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1438" y="-646" width="1181" height="235" key="#Markdown" timestamp="1606084984897">
